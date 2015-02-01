@@ -1,3 +1,24 @@
+## rospilot_deps (indigo) - 0.0.6-0
+
+The packages in the `rospilot_deps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rospilot_deps --track indigo --rosdistro indigo` on `Sun, 01 Feb 2015 20:38:57 -0000`
+
+The `rospilot_deps` package was released.
+
+Version of package(s) in repository `rospilot_deps`:
+- upstream repository: https://github.com/rospilot/rospilot_deps.git
+- release repository: https://github.com/rospilot/rospilot_deps-release.git
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.5-0`
+- new version: `0.0.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.16`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.11.1`
+- rosdistro version: `0.4.0`
+- vcstools version: `0.1.36`
+
+
 ## rospilot_deps (indigo) - 0.0.5-0
 
 The packages in the `rospilot_deps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release rospilot_deps --track indigo --rosdistro indigo` on `Sat, 05 Jul 2014 20:40:49 -0000`
