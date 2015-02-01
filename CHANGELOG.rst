@@ -2,6 +2,11 @@
 Changelog for package rospilot_deps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.6 (2015-02-01)
+------------------
+* Fix library and header exports
+* Contributors: Christopher Berner
+
 0.0.5 (2014-07-05)
 ------------------
 * Add missing files
