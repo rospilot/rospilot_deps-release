@@ -1,0 +1,12 @@
+Source: ros-jade-rospilot-deps
+Section: misc
+Priority: extra
+Maintainer: Christopher Berner <christopherberner@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev, ros-jade-camera-info-manager, ros-jade-catkin, ros-jade-cv-bridge, ros-jade-image-transport, ros-jade-roscpp, ros-jade-roslib, ros-jade-sensor-msgs, ros-jade-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-rospilot-deps
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libavcodec-dev, libavformat-dev, libavutil-dev, libswscale-dev, ros-jade-camera-info-manager, ros-jade-cv-bridge, ros-jade-image-transport, ros-jade-roscpp, ros-jade-roslib, ros-jade-sensor-msgs, ros-jade-std-msgs
+Description: Forked dependencies of Rospilot
