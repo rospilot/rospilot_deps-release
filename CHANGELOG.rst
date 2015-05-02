@@ -2,6 +2,11 @@
 Changelog for package rospilot_deps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2015-05-02)
+------------------
+* Remove debug code
+* Contributors: Christopher Berner
+
 0.1.1 (2015-04-30)
 ------------------
 * Fix deprecation warnings
